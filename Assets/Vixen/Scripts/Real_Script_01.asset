@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 923a78949ac676643919aa0da199fece, type: 3}
+  m_Name: Real_Script_01
+  m_EditorClassIdentifier: 
+  EventHandles: []
+  Lines:
+  - "\u201CNow he is here,\u201D I exclaimed.  \u201CFor Heaven\u2019s sake, hurry
+    down!  Do be quick; and stay among the trees till he is fairly in.\u201D"
+  - "\u201CI must go, Cathy,\u201D said Heathcliff, seeking to extricate himself from
+    his companion\u2019s arms. \u201CI won\u2019t stray five yards from your window\u2026\u201D"
+  - "\u201CFor one hour,\u201D he pleaded earnestly."
+  - "\u201CNot for one minute,\u201D she replied."
+  - "\u201CI must\u2013Linton will be up immediately,\u201D persisted the intruder."
+  Events:
+  - 
+  - 
+  - SpecialEffect1
+  - SpecialEffect2
+  - ikiomaevent
